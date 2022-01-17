@@ -13,6 +13,7 @@ The initial analysis is performed in [PyCitySchools.ipynb](PyCitySchools.ipynb)
 The subsequent analsysis with the removal of the THS (Thomas High School) ninth grader grades was performed in [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
 
 ## Results
+### Summary of Results
 - **District Summary**
 
  Below are the results of the district summary for all schools with and without the Thomas High School Ninth Grader grades.  As you can see, there were marginal changes (within tenths of a percentage) in math scores, reading scores and overall passing grades. Obviously the number of schools, students and budget are unchanged.
@@ -56,3 +57,10 @@ The subsequent analsysis with the removal of the THS (Thomas High School) ninth 
   - Thomas High School is a charter school, so it would be expected that only charter school aggregates are impacted. 
   - However, rounding to zero decimal places show no change to charter high school performance.
    ![School Type Results](/Resources/School_Type_Summary.png)
+
+## Summary
+### Summary of Changes
+The District has 39,170 students.  Thomas High School has 1635 total students.  The removal of Thomas High School Ninth grader grades impacted only 461 students, or 1.2% of the total district, 28% of Thomas High School student count.  This low removal rate had little impact on District summary overall.  Somewhat unexpectedly the removal of these grades had little impact on Thomas High School's performance.  Although there was evidence of grade alteration, the grades for Thomas High School ninth graders were not widely divergent from average grades for other grades in that school.  As a result, the removal of Ninth grader Thomas High School only had slight decrease in overall passing percentages. Scores by School Size, Scores by School Types and School Spending as well as Thomas High School's performance in comparison to other schools only decreased by tenths of a percentage.
+
+### Summary of Analysis
+Both analyses revealed that budget had less impact on performance than school size. Smaller schools, which tend to be charter schools, performed better on math and reading.
