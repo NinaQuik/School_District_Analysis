@@ -55,4 +55,4 @@ The subsequent analsysis with the removal of the THS (Thomas High School) ninth 
   - The trend continues with Scores by School Types summaries.  
   - Thomas High School is a charter school, so it would be expected that only charter school aggregates are impacted. 
   - However, rounding to zero decimal places show no change to charter high school performance.
-  
+   ![School Type Results](/Resources/School_Type_Summary.png)
